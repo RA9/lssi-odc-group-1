@@ -22,7 +22,7 @@ To have a  platform that displays schools essential information regarding school
       - A version of the UI with React
 
 ### Meet The Team
-Princess B. Washington - [@princesswG](https://www.github.com/princesswG)
+Abraham Varnie - [@avarnie](https://www.github.com/avarnie)
 
 
 
