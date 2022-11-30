@@ -23,7 +23,10 @@ To have a  platform that displays schools essential information regarding school
 
 ### Meet The Team
 Abraham Varnie - [@avarnie](https://www.github.com/avarnie)
+
 Obadiah V. Jeakollie, Jr - [@jeakollie](https://www.github.com/jeakollie)
+
+Philip Marcus Nathan Jr. - [@nathan310](https://www.github.com/nathan310)
 
 
 
