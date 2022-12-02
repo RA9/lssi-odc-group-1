@@ -10,7 +10,7 @@ export default function SchoolsInfo() {
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">St. Peter Lutheran High School</div>
         <p class="text-gray-700 text-base">
-           St. Peter Lutheran High School is located in 14th Street, Montserrado County, Monrovia, Liberia. For more info read more.
+           St. Peter Lutheran High School is located in 14th Street, Moserrado County, Monrovia, Liberia. For more info read more.
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
