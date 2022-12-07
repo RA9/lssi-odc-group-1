@@ -20,27 +20,16 @@ export default function Navbr(){
       inline={true}
       label="Counties"
     >
-      <Dropdown.Header>
-        <span className="block text-sm">
-          Bonnie Green
-        </span>
-        <span className="block truncate text-sm font-medium">
-          name@flowbite.com
-        </span>
-      </Dropdown.Header>
       <Dropdown.Item>
-        Dashboard
+        Margibi
       </Dropdown.Item>
       <Dropdown.Item>
-        Settings
+        Montserrado
       </Dropdown.Item>
       <Dropdown.Item>
-        Earnings
+        Grand Bassa
       </Dropdown.Item>
       <Dropdown.Divider />
-      <Dropdown.Item>
-        Sign out
-      </Dropdown.Item>
     </Dropdown>
     <Navbar.Toggle />
   </div>
