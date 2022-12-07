@@ -1,12 +1,12 @@
 // import logo from './logo.svg';
 import './App.css';
-import Navbar from './components/Navbar';
+import Navbr from './components/Navbr';
 import SchoolsInfo from './components/SchoolInfo';
 
 function App() {
   return (
     <>
-     <Navbar />
+     <Navbr />
     
      
      <div class="py-6">
