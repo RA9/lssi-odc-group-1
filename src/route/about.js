@@ -1,5 +1,4 @@
 import React from "react";
-import { Card } from "flowbite-react";
 import Navbr from "../components/Navbr";
 
 export default function About (){
