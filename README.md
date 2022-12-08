@@ -1,5 +1,5 @@
 # Liberia Secondary Schools Essential Information (LSSI)
-A directory site that gives basic information about hospitals and clinics.
+A directory site that gives basic information about schools.
 
 ## The Problem
 There are difficulties in the flow of information between MOE and schools in Liberia.
