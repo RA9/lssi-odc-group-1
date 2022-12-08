@@ -16,7 +16,7 @@ export default function Navbr(){
   </Navbar.Brand>
   <div className="flex md:order-2">
     <Dropdown
-      arrowIcon={false}
+      arrowIcon={true}
       inline={true}
       label="Counties"
     >
@@ -35,15 +35,14 @@ export default function Navbr(){
   </div>
   <Navbar.Collapse>
     <Navbar.Link
-      href="/navbars"
-      active={true}
+      href="/"
     >
       Home
     </Navbar.Link>
-    <Navbar.Link href="/navbars">
+    <Navbar.Link href="/about">
       About
     </Navbar.Link>
-    <Navbar.Link href="/navbars">
+    <Navbar.Link href="/services">
       Services
     </Navbar.Link>
   </Navbar.Collapse>
